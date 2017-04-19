@@ -4,7 +4,8 @@ Ferrramentas de Controle de Versão:
 
 *RCV
 *CVS
-*Source Safe
+*Source safe
+*clear case
 *SVN
 *Mercurial
 *GitHub
