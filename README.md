@@ -6,6 +6,7 @@ Ferrramentas de Controle de Versão:
 *CVS
 *Source Safe
 *SVN
+*Perforce
 *Mercurial
 *GitHub
 *BitBucket
