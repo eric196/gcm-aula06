@@ -3,7 +3,9 @@
 Ferrramentas de Controle de Versão:
 
 *RCV
+*Perforce
 *CVS
+*Bazzar
 *Source safe
 *clear case
 *SVN
@@ -11,3 +13,4 @@ Ferrramentas de Controle de Versão:
 *Mercurial
 *GitHub
 *BitBucket
+*Visual Studio Team Services
